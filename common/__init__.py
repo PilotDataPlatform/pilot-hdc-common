@@ -5,7 +5,6 @@
 # You may not use this file except in compliance with the License.
 
 
-from .geid import GEIDClient
 from .jwt_handler import JWTHandler
 from .lineage import LineageClient
 from .logging import configure_logging
@@ -21,10 +20,8 @@ from .project import ProjectClient
 from .project import ProjectClientSync
 from .project import ProjectException
 from .project import ProjectNotFoundException
-from .vault import VaultClient
 
 __all__ = [
-    'GEIDClient',
     'JWTHandler',
     'LineageClient',
     'configure_logging',
@@ -40,5 +37,4 @@ __all__ = [
     'ProjectClientSync',
     'ProjectException',
     'ProjectNotFoundException',
-    'VaultClient',
 ]
