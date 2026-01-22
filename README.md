@@ -1,10 +1,10 @@
 # common
 
-[![Run Tests](https://github.com/PilotDataPlatform/common/actions/workflows/run-tests.yml/badge.svg?branch=develop)](https://github.com/PilotDataPlatform/common/actions/workflows/run-tests.yml)
-[![Python](https://img.shields.io/badge/python-3.8-brightgreen.svg)](https://www.python.org/)
+[![Run Tests](https://github.com/PilotDataPlatform/pilot-hdc-common/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/PilotDataPlatform/pilot-hdc-common/actions/workflows/run-tests.yml)
+[![Python](https://img.shields.io/badge/python-3.10-brightgreen.svg)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/pilot-platform-common.svg)](https://pypi.org/project/pilot-platform-common/)
 
-Importable package responsible for cross-service tasks within the Pilot Platform (e.g. logging, Vault connection, etc.).
+Importable package responsible for cross-service tasks within the Pilot Platform.
 
 
 ## Getting Started
