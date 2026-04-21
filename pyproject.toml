@@ -22,7 +22,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
-python-dotenv = ">=0.19.1"
+python-dotenv = ">=1.2.2"
 aioboto3 = ">=9.6.0,<=13.2.0"
 xmltodict = ">=0.13.0,<=0.14.2"
 minio = "^7.1.8"
