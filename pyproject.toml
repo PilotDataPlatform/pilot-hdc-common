@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "pilot-platform-common"
-version = "0.9.0"
+version = "0.9.1"
 authors = ["Indoc Systems", "Indoc Research"]
 maintainers = [
     "Matvey Loshakov <mloshakov@indocresearch.org>",
